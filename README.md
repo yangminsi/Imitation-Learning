@@ -5,5 +5,5 @@
     print
     return
 `lunix`
-233  
-34
+ 233
+ 34
